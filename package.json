@@ -1,0 +1,16 @@
+{
+  "name": "richcards",
+  "version": "1.0.0",
+  "description": "rich cards",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shashi Barrenkula",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.1",
+    "dotenv-extended": "^2.0.1",
+    "restify": "^7.1.1"
+  }
+}
